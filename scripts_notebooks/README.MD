@@ -1,1 +1,2 @@
-information
+# Structure
+
